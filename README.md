@@ -34,4 +34,6 @@ A full-stack application for an Auto Machine Learning workflow with a FastAPI ba
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
-<img width="433" alt="Visual lab image" src="https://github.com/user-attachments/assets/8f6f00a3-5674-4c9c-aebf-d13774c8614f" />
+
+
+<img width="433" alt="Visual lab image" src="https://github.com/user-attachments/assets/d46a64e1-e8b1-423f-8417-730ce79ee734" />
