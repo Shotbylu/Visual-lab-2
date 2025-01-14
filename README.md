@@ -35,5 +35,3 @@ cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 
-
-<img width="433" alt="Visual lab image" src="https://github.com/user-attachments/assets/d46a64e1-e8b1-423f-8417-730ce79ee734" />
